@@ -1,0 +1,26 @@
+.backdrop-grass {
+    position: absolute;
+    width: 100%;
+    margin-top: 40vh;
+    height: 60vh;
+    background-color: #98cf75;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%2396ac92' fill-opacity='1' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    z-index: 1;
+    text-align: center;
+    justify-content: center;
+}
+
+.backdrop-sky {
+    background-color: skyblue;
+    height: 40vh;
+    margin-bottom: 60vh;
+    position: block;
+    z-index: 1;
+}
+.road {
+    background-color: gray;
+    height: 100%;
+    width: 45vh;
+    z-index: 5;
+    margin-left: 35%
+}
