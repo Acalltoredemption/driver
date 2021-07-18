@@ -1,0 +1,47 @@
+.carbody {
+    width: 80px;
+    height: 200px;
+    background-color: red;
+    z-index: 6;
+    display: inline-block;
+    position: relative;
+    margin-top: 250px;
+}
+
+.carwheel {
+    width: 15px;
+    height: 45px;
+    background-color: black;
+    z-index: 6;
+    position: absolute;
+    margin-top: 30px;
+    right: 75px;
+}
+.carwheel-two {
+    width: 15px;
+    height: 45px;
+    background-color: black;
+    z-index: 6;
+    position: absolute;
+    margin-top: 140px;
+    right: 75px;
+
+}
+.carwheel-three {
+    width: 15px;
+    height: 45px;
+    background-color: black;
+    z-index: 6;
+    position: absolute;
+    margin-top: 30px;
+    left: 75px;
+}
+.carwheel-four {
+    width: 15px;
+    height: 45px;
+    background-color: black;
+    z-index: 6;
+    position: absolute;
+    margin-top: 140px;
+    left: 75px;
+}

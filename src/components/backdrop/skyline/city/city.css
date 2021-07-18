@@ -1,0 +1,30 @@
+.skyline-city {
+    width: 100px;
+    height: 250px;
+    background-color: black;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 60px;
+}
+.skyline-city-light1{
+    width: 10px;
+    height: 10px;
+    background-color: yellow;
+}
+
+.cityholder {
+    text-align: center;
+
+}
+.citypic {
+    width: 600px;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+}
+.townpic {
+    width: 600px;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+}
