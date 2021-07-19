@@ -27,4 +27,14 @@
     z-index: 5;
     justify-content: center;
     display: inline-block;
+    position: relative;
+
+}
+.roadlines {
+    position: relative;
+    z-index: 5.5;
+    height: 100%;
+    left: 190px;
+    top: -450px;
+    border-left: dashed 20px white;
 }
