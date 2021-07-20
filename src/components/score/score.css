@@ -10,4 +10,19 @@
     z-index: 2;
     top: 50px;
     left: 50px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .score {
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  .scoretracker {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 3px 2px rgba(0,0,0,0.4);
+    display: inline-block;
+    
   }
